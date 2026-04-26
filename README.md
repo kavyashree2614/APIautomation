@@ -1,4 +1,4 @@
-# APIautoation
+# APIautomation
 API automation using restassured
 API Automation
 On the following endpoint - api.coingecko.com/api/v3/coins/bitcoin,  automate the following
